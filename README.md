@@ -104,6 +104,8 @@
 <br>
 
 ## 🎒 Образование
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)
 
 
 <br>
