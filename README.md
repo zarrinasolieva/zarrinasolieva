@@ -105,7 +105,8 @@
 
 ## 🎒 Образование
 [![Сертификат о прохождении базового курса "Инженер по тестированию"](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса "Инженер по тестированию"">](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)
+[![Сертификат о прохождении курса "Инженер по тестированию"](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)
+
 
 <br>
 <br>
