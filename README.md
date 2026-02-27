@@ -79,7 +79,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zarrinarozikova1@gmail.com)
 
 <br>
 
