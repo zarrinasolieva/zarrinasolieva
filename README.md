@@ -86,8 +86,6 @@
 
 Сайт на JavaScript (React), бэкенд на Python.
 
-Длительность стажировки: 56 часа.
-
 
 Моя зона ответственности:
 
@@ -105,13 +103,6 @@
 
 <br>
 
-## 🎒 Образование
-[![Сертификат о прохождении базового курса "Инженер по тестированию"](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)
-[![Сертификат о прохождении курса "Инженер по тестированию"](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)
-
-
-<br>
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zarrinarozikova1@gmail.com)
