@@ -83,6 +83,7 @@
     <td><img width="300" src="https://github.com/zarrinasolieva/zarrinasolieva/blob/main/079c643a224.png?raw=true" /></td>
   </tr>
 </table>
+
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zarrinarozikova1@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/s_zarri)
