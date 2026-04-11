@@ -76,7 +76,9 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
+## 🎒 Образование
+[<img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/qustudioru.png)
+[<img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/neffrit/neffrit/refs/heads/main/jun.png)
 
 <br>
 
