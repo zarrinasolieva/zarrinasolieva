@@ -78,7 +78,7 @@
 
 ## 🎒 Образование
 [<img src="/qustudioru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/0e5b62eb247.png)
-[<img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/zarrinasolieva/zarrinasolieva/refs/heads/main/079c643a224.png)
+[<img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/zarrinasolieva/zarrinasolieva/blob/main/079c643a224.png)
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zarrinarozikova1@gmail.com)
